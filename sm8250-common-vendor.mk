@@ -558,7 +558,6 @@ PRODUCT_PACKAGES += \
     libcapiv2vop \
     libcdsp_default_listener \
     libcdsprpc \
-    libdapparamstorage \
     libdevice_security_vendor \
     libdiag \
     libdpmqmihal \
@@ -644,7 +643,6 @@ PRODUCT_PACKAGES += \
     libqcreverb \
     libqcvirt \
     libshoebox \
-    libswdap \
     vendor.dolby.hardware.dms@1.0 \
     vendor.qti.data.slm@1.0 \
     vendor.qti.hardware.bluetooth_sar@1.0 \
